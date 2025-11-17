@@ -1,0 +1,4 @@
+flwr
+pandas
+scikit-learn
+numpy
