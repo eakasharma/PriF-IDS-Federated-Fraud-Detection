@@ -92,6 +92,9 @@ python client.py --partition 2
 
 As soon as all 3 clients connect, the training will begin. You can watch the "Server-Side Evaluation" in Terminal 1 as the model learns.
 
+<img width="2559" height="1498" alt="image" src="https://github.com/user-attachments/assets/98fb46f4-dfb5-4d28-9aa7-8f8e344ec9bf" />
+
+
 ► Understanding the Results
 
 This project is a successful demonstration of Iterative Refinement. The warm_start=True parameter ensures the model learns from the global parameters in each round, not just from its own data.
