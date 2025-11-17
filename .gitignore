@@ -1,0 +1,12 @@
+Ignore the Virtual Environment
+
+venv/
+pycache/
+
+Ignore VS Code settings
+
+.vscode/
+
+Ignore Mac system files
+
+.DS_Store
